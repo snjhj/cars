@@ -1,8 +1,12 @@
 # Identifying Information:
 Name: William McDermott
+
 Student ID: 2367430
+
 Email: wmcdermott@chapman.edu
+
 Class: cpsc-298-03
+
 Assignment: numbers
 
 # Application Purpose
