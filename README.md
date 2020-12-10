@@ -7,7 +7,7 @@ Email: wmcdermott@chapman.edu
 
 Class: cpsc-298-03
 
-Assignment: numbers
+Assignment: cars
 
 # Application Purpose
 
